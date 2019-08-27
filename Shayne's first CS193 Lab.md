@@ -29,6 +29,12 @@ Syntax highlighted code block
 **Hello World Test**
 _CS 19300_
 `ABABABABABABAB`
+
+**My Favorite things about CS193**
+-The syllabus
+-The people
+-The instructor
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
