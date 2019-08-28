@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+# Shayne's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -33,7 +34,7 @@ _CS 19300_
 **My Favorite things about CS193**
 - The syllabus
 - The people
-- The instructor
+- The instructors
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
